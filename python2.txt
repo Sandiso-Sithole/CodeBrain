@@ -1,0 +1,46 @@
+at is the output of the following code?
+String str = "Hello";
+str.concat(" World");
+System.out.println(str);
+###
+Hello@World@Hello World@None of the Above
+How do you create an object of a class in Java?
+###
+Object obj = new Object();@new Object();@ new object();@none
+How do you read user input from the console in Java?
+###
+All of the below@BufferedReader.readLine()@System.console().readLine()@Scanner.next()
+What will be the output of the following code?
+def some_function(x):
+    if x > 5:
+        return x + some_function(x - 1)
+    else:
+        return x
+result = some_function(8)
+print(result)
+###
+27@26@8@36
+What will be the output of the following code?
+x = [1, 2, 3]
+y = x
+y.append(4)
+print(x)
+###
+[1, 2, 3, 4]@[1, 2, 3]@ [1, 2, 3, 4, 4]@[1, 2, 3, 4, 4, 4]
+What will be the output of the following code?
+a = [1, 2, 3]
+b = [1, 2, 3]
+print(a is b)
+###
+False@True@None@0
+What is the correct way to open a file in Python for reading?
+###
+file = open("myfile.txt", "r")@file = open("myfile.txt", "x")@all of them above@none
+What is the output of the following code?
+x = [1, 2, 3, 4, 5]
+print(x[1:3])
+###
+ [2, 3]@[1, 2, 3, 4]@[1, 2, 3]@ [1, 2, 3, 4, 4]
+print(1+2)?
+###
+1@3@""@34

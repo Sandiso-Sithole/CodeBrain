@@ -1,0 +1,33 @@
+How do you comment out a single line of the code in python?
+###
+By using the hashtag symbol@By adding two stars@all of them above@none
+Which data type is immutable in python?
+###
+Tuple@List@set@Dictionary
+How do you check the length of a list in Python?
+By using the len() function.
+###
+True@False
+What is the output of the following code?
+print(3 * 3 ** 3)
+###
+729@27@6@3
+Which keyword is used to exit a loop prematurely in Python?
+Continue
+###
+False@True
+What is the output of the following code?
+###
+Hello, <name>@
+Hello, input("What is your name?")
+SyntaxError: invalid syntax
+None
+Which method is used to convert a string to uppercase in Python?
+upper()
+###
+True@False
+What is the output of the following code?
+my_dict = {"a": 1, "b": 2}
+print(my_dict.get("c", 3))
+###
+3@2@1@none

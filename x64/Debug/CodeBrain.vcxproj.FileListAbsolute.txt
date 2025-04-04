@@ -1,0 +1,7 @@
+C:\Users\MVELO THUSI\source\repos\CodeBrain\CodeBrain\x64\Debug\CodeBrain.vcxproj.AssemblyReference.cache
+C:\Users\MVELO THUSI\source\repos\CodeBrain\CodeBrain\x64\Debug\CodeBrain.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\MVELO THUSI\source\repos\CodeBrain\CodeBrain\x64\Debug\CodeBrain.MyForm.resources
+C:\Users\MVELO THUSI\source\repos\CodeBrain\CodeBrain\x64\Debug\CodeBrain.MyForm1.resources
+C:\Users\MVELO THUSI\source\repos\CodeBrain\CodeBrain\x64\Debug\CodeBrain.MyForm2.resources
+C:\Users\MVELO THUSI\source\repos\CodeBrain\CodeBrain\x64\Debug\CodeBrain.vcxproj.GenerateResource.cache
+C:\Users\MVELO THUSI\source\repos\CodeBrain\CodeBrain\x64\Debug\CodeBrain.MyForm3.resources
